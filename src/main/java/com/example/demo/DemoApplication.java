@@ -14,7 +14,7 @@ public class DemoApplication {
 	}
 	@GetMapping("/")
 	public String home() {
-		return "Hello, World! 2024";	
+		return "Hello, World! 2024-1";	
 	}
 
 }
